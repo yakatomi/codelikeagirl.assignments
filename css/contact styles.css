@@ -1,3 +1,7 @@
+body{
+    background-color:#2A324B;
+  }
+
 h1{
     color: #C7CCDB;
     font-family:'Roboto', sans-serif;
@@ -13,13 +17,17 @@ p{
     font-style: italic;
     font-weight: bolder;
 }
-body{
-    background-color:#2A324B;
-  }
-a{
-    color:black;
+ul{
+    list-style-type: circle;
     font-family: 'Nunito', sans-serif;
+    color:#E1E5EE;
 }
-a:link {color:#C7CCDB}
+a:link{color:#C7CCDB}
 a:visited{ color:#7307ed;}
-a:active{color:red;}
+a:hover{color: red}
+
+img{
+    border: 2px dashed salmon;
+    border-radius: 15px;
+    padding: 8px;
+}
