@@ -1,19 +1,17 @@
 h1{
     color: #C7CCDB;
     font-family:'Roboto', sans-serif;
+    font-weight:bold;
 }
 h2{
     color:#C7CCDB;
     font-family: 'Roboto', sans-serif;
 }
-h4{
-    color:#C7CCDB;
-    font-family: 'Roboto', sans-serif;
-    font-style: italic;
-}
-li{
+p{
     color:#E1E5EE;
     font-family: 'Nunito', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
 }
 body{
     background-color:#2A324B;
